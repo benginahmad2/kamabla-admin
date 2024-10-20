@@ -13,7 +13,7 @@ import {
 } from "@solana/wallet-adapter-wallets";
 import "@solana/wallet-adapter-react-ui/styles.css";
 
-const network = WalletAdapterNetwork.Devnet; // Use MainnetBeta or Testnet as needed
+const network = WalletAdapterNetwork.Mainnet; // Use MainnetBeta or Testnet as needed
 const endpoint = clusterApiUrl(network);
 
 interface WalletProviderProps {
