@@ -17,7 +17,7 @@ const Initialize = () => {
 
 
     const depoamount = 10000;
-    const widramount = 5;
+    const widramount = 9990;
 
 
 
